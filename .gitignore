@@ -1,0 +1,10 @@
+.DS_Store
+build
+~*
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex*
+paper.pdf
